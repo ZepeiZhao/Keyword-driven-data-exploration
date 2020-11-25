@@ -3,7 +3,7 @@
 ### Tags: Django, python, html, css, javascript
 
 The goal of this project is to import data from MySQL to Firebase and develop a keyword-driven interface to explore the data via their foreign-key relationships.
-
+Co-worker: Linlin Sun
 ## Task
 
 ### A. Develop a Python program "import.py"
@@ -18,7 +18,7 @@ The goal of this project is to import data from MySQL to Firebase and develop a 
     d. Allowing users to continuously navigate from returned/current tuples to other tuples through the foreign key relationships
 
 ## DEMO
-
+https://www.youtube.com/watch?v=na99jO3SsZY
 ### A. User Interface
 
 <img src = "https://github.com/ZepeiZhao/img/blob/master/Screen%20Shot%202020-05-16%20at%203.52.48%20PM.png" width = "500">
